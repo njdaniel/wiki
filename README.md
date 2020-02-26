@@ -24,5 +24,6 @@ localhost:8080/edit/pagename
 1. add links to other pages. 
 ```<a href="/view/PageName">PageName</a>```
 maybe use regexp.ReplaceAllFunc
-2. templates/ folder
+2. ~~templates/ folder~~
 3. save data to git? lfs https://git-lfs.github.com/
+4. homepage
